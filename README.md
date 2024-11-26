@@ -14,7 +14,7 @@
   <h3 align="center">An Awwwards Winning Website</h3>
 
    <div align="center">
-     Build with the help of [JS Mastery](https://www.youtube.com/@javascriptmastery]. Working with React, Vite, GSAP, and Tailwind CSS. 
+     Build with the help of <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Working with React, Vite, GSAP, and Tailwind CSS. Please give them a like and subscribe if you want to learn more about Modern Web Devleopment.
     </div>
 </div>
 
